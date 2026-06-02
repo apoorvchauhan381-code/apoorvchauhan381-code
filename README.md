@@ -23,7 +23,7 @@
 End-to-end GenAI platform — LangChain agents + GPT-4 + RAG over live PostgreSQL data across 450 airports. Eliminated 100% of ad-hoc analyst requests. Built Slack anomaly alerting so Directors act without analyst intervention.
 
 ### 💰 [Vendor SLA Payment Automation](https://github.com/apoorvchauhan381-code/vendor-sla-payment-automation)
-Replaced a 1–2 month manual Excel process managing $6M/yr in vendor payments with a fully automated real-time Spotfire dashboard. Zero reconciliation errors.
+Replaced a 1–2 month manual Excel process managing $M/yr in vendor payments with a fully automated real-time Spotfire dashboard. Zero reconciliation errors.
 
 ### 📊 [Multi-Partner Reporting Platform](https://github.com/apoorvchauhan381-code/multi-partner-reporting-platform)
 Partitioned reporting system for 20+ global airline partners — 500+ daily users, 60% faster load time via query optimisation and intelligent caching.
