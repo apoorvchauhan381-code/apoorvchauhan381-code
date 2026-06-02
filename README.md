@@ -2,7 +2,7 @@
 
 **Senior Data & BI Analyst · Analytics Engineer · AI & GenAI Automation**
 
-7+ years building end-to-end analytics platforms, AI-powered pipelines, and enterprise BI infrastructure in high-stakes aviation operations. Sole technical analyst at United Airlines (India) — promoted 5 times in 5 years.
+7+ years building end-to-end analytics platforms, AI-powered pipelines, and enterprise BI infrastructure in high-stakes operations. Sole technical analyst at United Airlines (India) — promoted 5 times in 5 years.
 
 ---
 
@@ -20,25 +20,13 @@
 ## 📌 Featured Projects
 
 ### 🤖 [AI-Powered Ops Intelligence Platform](https://github.com/apoorvchauhan381-code/ai-ops-intelligence-platform)
-End-to-end GenAI platform — LangChain agents + GPT-4 + RAG over live PostgreSQL data across 450 airports. Eliminated 100% of ad-hoc analyst requests. Built Slack anomaly alerting so Directors act without analyst intervention.
+End-to-end GenAI platform — LangChain agents + GPT-4 + RAG over live PostgreSQL ops data. Eliminated all ad-hoc analyst requests. Built Slack anomaly alerting so operations leaders act without analyst intervention.
 
 ### 💰 [Vendor SLA Payment Automation](https://github.com/apoorvchauhan381-code/vendor-sla-payment-automation)
-Replaced a 1–2 month manual Excel process managing $M/yr in vendor payments with a fully automated real-time Spotfire dashboard. Zero reconciliation errors.
+Replaced a weeks-long manual vendor payment process with a fully automated real-time Spotfire dashboard. Zero reconciliation errors, serving multiple global airline partners.
 
 ### 📊 [Multi-Partner Reporting Platform](https://github.com/apoorvchauhan381-code/multi-partner-reporting-platform)
-Partitioned reporting system for 20+ global airline partners — 500+ daily users, 60% faster load time via query optimisation and intelligent caching.
-
----
-
-## 📈 Key Impact Numbers
-
-```
-$6M/yr  → Vendor SLA process automated
-  90%   → Manual reporting eliminated
-  70%   → Faster analytics processing
-  500+  → Daily dashboard users
- 100%   → Ad-hoc data requests eliminated
-```
+Partitioned reporting system for global airline partners — hundreds of daily users, significantly faster load time via query optimisation and intelligent caching.
 
 ---
 
